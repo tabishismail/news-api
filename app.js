@@ -46,5 +46,3 @@ let setData = async()=>{
 }
 
 setData()
-
-
